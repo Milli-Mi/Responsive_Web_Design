@@ -29,6 +29,7 @@ code {
   color: rgb(60, 60, 60);
   font-size: 16px;
   line-height: 2;
+  font-size: 13px;
 
    
 }
@@ -67,6 +68,7 @@ margin: 0;
   height: 100%;
   width: 320px;
   border-right: solid 2px rgb(154, 149, 151);
+  border-radius: 5px;
   /* border: solid 4px rgb(233, 4, 115); */
 }
 #main-doc {
